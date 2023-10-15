@@ -1,0 +1,21 @@
+{
+  "name": "smartedu",
+  "version": "1.0.0",
+  "description": "education system",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "education",
+    "udemy",
+    "smartedu",
+    "nodejs"
+  ],
+  "author": "Ali Haydar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
